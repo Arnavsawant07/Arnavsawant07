@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F52C69&center=true&vCenter=true&width=435&lines=AI+%7C+Cloud+%7C+DevOps+Learner;Passionate+Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
-<p align="center">
 
-<img src="https://raw .githubusercontent.com/halfrost /halfrost/master/icons/header_.png" alt="Header Banner" width="100%" /> </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arnavsawant07&label=Profile%20views&color=F52C69&style=flat" alt="arnav-views" />
