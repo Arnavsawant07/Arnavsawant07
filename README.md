@@ -1,56 +1,81 @@
-<h1 align="center">Hi there, I'm <a href="https://your-portfolio-link.com" target="_blank">Your Name</a>! 👋</h1>
+<h1 align="center">Hi 👋, I'm Arnav Uday Sawant</h1>
+<h3 align="center">AI | Cloud | DevOps Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2094F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Building+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" alt="banner" width="100%" />
+</p>
+
+<h3 align="center">🚀 A Passionate Full Stack Developer from India</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arnavsawant07&label=Profile%20views&color=0e75b6&style=flat" alt="arnav-views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Arnavsawant07&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="arnav-trophies" />
+  </a>
 </p>
 
 ---
 
-<p align="center">
-  I transform complex problems into elegant code. Currently working on <b>System Architecture</b> and exploring <b>AI/ML pipelines</b>.
-</p>
+<h3>🛠 Languages & Tools</h3>
 
-<p align="center">
-  🌱 I’m currently learning <b>Rust & WebAssembly</b><br>
-  👯 I’m looking to collaborate on <b>Open Source DevTools</b><br>
-  💬 Ask me about <b>React, Node.js, and Cloud Infrastructure</b><br>
-  📫 How to reach me: <b>your.email@example.com</b>
-</p>
-
----
-
-<h3 align="left">🛠 Languages and Tools</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,js,ts,c,cpp,cs,go,swift,php,kotlin,rust,dart,r" />
+  </a>
+  <br><br>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,angular,react,vue,bootstrap,tailwind,sass,flutter" />
+  </a>
+  <br><br>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,django,flask,express,nestjs,graphql" />
+  </a>
+  <br><br>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,heroku,vercel,netlify" />
+  </a>
+  <br><br>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,firebase,docker,kubernetes,terraform,git,github,gitlab,bash" />
+  </a>
+  <br><br>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jest,postman,selenium" />
+  </a>
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Analytics</h3>
+<h3>📊 GitHub Stats</h3>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arnavsawant07&theme=radical&hide_border=true" alt="streak stats" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arnavsawant07&theme=react-dark" alt="activity graph" width="100%"/>
 </div>
 
 ---
 
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
+<h3>🎯 Fun Fact</h3>
+<blockquote>
+"The best way to predict the future is to create it!"
+</blockquote>
 
+<h3>🚀 Show Some Love</h3>
+<p>If you like my work, consider giving me a ⭐ on my GitHub profile! 😉</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Built%20With-Love-orange?style=for-the-badge&logo=heart" />
+  <img src="https://img.shields.io/badge/Made%20With-Python-red?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Open-Source-blue?style=for-the-badge&logo=open-source-initiative" />
+</p>
